@@ -1,0 +1,201 @@
+edad,presion_sistolica,colesterol_total,IMC,actividad_fisica,dieta,calidad_sueño,score_calcio,tabaquismo,antecedentes_familiares,riesgo
+68,161,250,34.4,moderada,saludable,buena,274,no,si,bajo
+58,136,157,24.4,baja,no saludable,mala,1636,si,no,alto
+44,150,202,22.9,moderada,no saludable,buena,1067,si,si,alto
+72,143,209,32.8,moderada,saludable,mala,1978,no,no,alto
+37,123,257,21.8,alta,no saludable,buena,816,si,si,alto
+50,178,154,34.4,moderada,no saludable,buena,956,si,si,alto
+68,158,252,18.2,alta,no saludable,mala,1040,si,si,alto
+48,131,155,34.5,moderada,no saludable,mala,329,si,si,bajo
+52,151,258,18.7,moderada,no saludable,buena,1592,si,no,alto
+40,161,265,33.1,moderada,saludable,mala,1846,no,si,alto
+40,157,243,27.0,alta,no saludable,buena,1520,no,si,alto
+53,151,196,34.9,alta,saludable,buena,1838,si,no,alto
+65,111,248,19.3,baja,no saludable,buena,11,si,si,bajo
+69,138,204,27.4,alta,saludable,buena,1341,si,si,alto
+53,101,201,34.5,alta,no saludable,buena,1615,no,no,alto
+32,102,293,26.9,alta,saludable,mala,215,si,si,bajo
+51,155,162,28.7,alta,no saludable,buena,338,no,no,bajo
+31,180,263,29.8,baja,saludable,buena,1799,no,no,alto
+53,158,273,25.7,alta,no saludable,mala,660,no,no,alto
+73,101,255,28.7,moderada,saludable,buena,1104,si,no,alto
+59,101,296,27.9,moderada,no saludable,mala,1750,no,si,alto
+67,153,294,33.3,alta,saludable,mala,1508,si,no,alto
+31,100,269,18.8,alta,saludable,mala,373,no,si,bajo
+50,118,212,22.8,moderada,no saludable,buena,975,si,si,alto
+62,101,168,34.2,moderada,no saludable,buena,709,no,si,alto
+41,152,241,33.1,baja,saludable,buena,1223,si,si,alto
+51,143,207,25.7,moderada,no saludable,mala,1560,no,si,alto
+73,131,239,28.5,moderada,saludable,buena,465,si,si,alto
+54,169,266,22.7,alta,saludable,mala,1112,si,si,alto
+78,131,211,21.2,moderada,saludable,buena,1291,si,si,alto
+56,167,172,25.9,baja,no saludable,mala,1678,si,si,alto
+71,154,276,24.0,moderada,saludable,buena,1594,no,si,alto
+57,174,286,27.9,alta,saludable,buena,1945,no,no,alto
+45,155,289,19.3,alta,no saludable,buena,488,si,no,alto
+44,116,278,34.6,moderada,no saludable,mala,1900,no,no,alto
+76,137,207,34.8,alta,no saludable,mala,1561,si,si,alto
+80,123,271,29.9,baja,no saludable,buena,46,si,no,bajo
+73,168,150,27.1,baja,saludable,buena,1311,no,no,alto
+32,169,183,23.3,moderada,saludable,mala,777,si,no,alto
+66,110,245,31.8,moderada,saludable,mala,1039,si,si,alto
+80,115,275,29.6,moderada,saludable,mala,710,no,si,alto
+36,172,267,20.8,alta,no saludable,buena,400,si,si,bajo
+50,158,197,33.5,baja,saludable,mala,1942,si,si,alto
+38,169,238,32.0,baja,saludable,buena,1817,si,no,alto
+68,179,266,34.1,alta,no saludable,mala,980,si,no,alto
+47,102,278,30.3,baja,saludable,buena,1109,no,no,alto
+33,119,165,28.4,moderada,saludable,mala,249,no,no,bajo
+54,158,218,25.1,moderada,saludable,mala,390,no,si,bajo
+43,135,171,33.9,moderada,saludable,mala,1805,si,si,alto
+79,118,242,32.7,baja,saludable,mala,334,si,si,alto
+38,166,225,18.8,moderada,saludable,mala,628,no,no,alto
+55,118,293,18.4,alta,no saludable,buena,1542,si,si,alto
+31,119,235,24.4,alta,no saludable,mala,136,si,si,bajo
+49,170,178,31.8,baja,saludable,mala,882,si,no,alto
+57,151,218,34.8,alta,saludable,mala,687,si,no,alto
+76,132,196,20.6,alta,no saludable,buena,1863,no,si,alto
+36,139,243,28.1,baja,saludable,mala,1521,no,si,alto
+73,138,293,24.5,moderada,saludable,buena,826,no,si,alto
+37,100,234,34.5,moderada,saludable,mala,726,si,si,alto
+76,110,188,32.3,moderada,no saludable,mala,1500,no,si,alto
+64,156,249,32.3,baja,saludable,buena,593,no,si,alto
+43,149,182,26.0,alta,no saludable,mala,1246,si,no,alto
+46,122,250,25.1,moderada,saludable,buena,989,si,no,alto
+65,130,172,22.6,moderada,no saludable,buena,371,no,no,bajo
+79,141,159,19.0,baja,no saludable,mala,934,no,si,alto
+69,106,218,32.7,moderada,saludable,buena,994,no,no,alto
+33,115,249,31.8,baja,no saludable,mala,401,no,si,alto
+31,159,183,35.0,alta,saludable,mala,1466,si,si,alto
+35,101,287,34.9,baja,no saludable,buena,1513,no,no,alto
+71,100,296,27.4,baja,saludable,buena,614,no,si,alto
+33,147,245,31.1,baja,saludable,buena,1296,si,si,alto
+58,111,150,34.1,baja,no saludable,buena,1549,no,no,alto
+47,168,218,32.4,alta,saludable,mala,1182,si,no,alto
+55,136,153,22.2,alta,saludable,mala,1175,si,no,alto
+73,131,165,25.7,moderada,no saludable,buena,994,si,si,alto
+63,108,173,20.2,alta,saludable,mala,619,no,no,alto
+39,118,229,34.2,alta,saludable,mala,187,no,no,bajo
+65,147,151,28.3,moderada,no saludable,mala,1836,si,si,alto
+43,179,277,21.9,alta,no saludable,mala,1121,no,no,alto
+60,102,233,29.4,baja,saludable,buena,130,no,no,bajo
+77,119,289,28.5,baja,saludable,buena,804,si,no,alto
+44,123,273,24.1,moderada,no saludable,mala,1194,si,si,alto
+37,153,182,19.9,moderada,no saludable,buena,935,no,si,alto
+43,132,250,29.4,moderada,saludable,buena,985,si,si,alto
+52,123,161,26.8,baja,no saludable,buena,182,no,si,bajo
+69,174,216,31.1,alta,saludable,mala,982,no,no,alto
+50,171,214,26.8,baja,saludable,mala,363,no,si,bajo
+45,135,223,32.5,moderada,saludable,mala,38,no,si,bajo
+74,137,192,27.4,alta,saludable,buena,1550,si,no,alto
+47,124,193,27.5,alta,saludable,mala,1911,si,no,alto
+76,117,178,32.9,baja,no saludable,mala,496,si,no,alto
+53,165,290,24.9,moderada,no saludable,buena,1539,si,si,alto
+55,153,161,20.3,baja,no saludable,mala,1372,no,si,alto
+54,134,244,18.5,alta,no saludable,mala,981,no,si,alto
+74,179,195,30.8,baja,saludable,buena,920,si,no,alto
+70,160,279,28.5,baja,saludable,buena,1420,no,no,alto
+58,140,184,30.0,moderada,saludable,buena,721,no,si,alto
+44,132,230,21.6,moderada,saludable,mala,1184,no,no,alto
+74,167,239,20.3,alta,no saludable,mala,15,si,no,alto
+30,132,157,18.2,baja,saludable,mala,492,si,no,alto
+54,113,242,24.0,baja,saludable,buena,1449,si,si,alto
+36,120,239,28.0,baja,no saludable,buena,1131,no,no,alto
+38,147,264,24.7,alta,no saludable,mala,893,si,no,alto
+53,119,254,25.4,alta,no saludable,mala,1473,si,si,alto
+30,107,284,33.4,moderada,no saludable,buena,310,si,si,bajo
+73,106,207,23.9,moderada,saludable,buena,738,si,no,alto
+37,166,263,26.7,moderada,saludable,buena,1193,si,no,alto
+53,116,224,31.3,baja,no saludable,buena,545,si,si,alto
+40,132,269,24.7,baja,saludable,mala,413,no,si,alto
+80,147,170,28.6,moderada,saludable,buena,250,no,no,bajo
+46,175,287,32.7,baja,saludable,mala,758,si,no,alto
+37,158,250,34.1,moderada,no saludable,mala,1804,si,no,alto
+64,121,248,20.5,alta,saludable,mala,1164,no,no,alto
+64,129,185,33.8,moderada,no saludable,buena,1297,no,si,alto
+62,137,245,26.4,alta,saludable,buena,1439,si,no,alto
+34,150,300,22.4,baja,saludable,buena,1631,si,no,alto
+71,153,186,25.8,moderada,saludable,buena,1762,si,si,alto
+68,107,161,34.7,baja,no saludable,mala,1914,si,no,alto
+70,126,262,26.4,alta,saludable,buena,1062,no,si,alto
+57,126,162,23.6,alta,no saludable,buena,813,si,no,alto
+36,120,172,28.8,alta,no saludable,mala,28,si,no,bajo
+38,129,248,22.1,baja,no saludable,buena,957,si,si,alto
+37,127,254,19.3,baja,saludable,mala,476,si,si,alto
+41,163,179,20.2,baja,saludable,mala,317,no,no,bajo
+63,168,166,20.2,baja,saludable,mala,244,no,no,bajo
+62,160,262,20.6,alta,saludable,mala,747,no,no,alto
+77,147,211,20.4,alta,no saludable,mala,696,si,si,alto
+52,118,233,28.9,moderada,no saludable,mala,271,si,no,bajo
+53,103,261,21.1,moderada,no saludable,mala,1463,no,si,alto
+66,134,235,23.9,baja,saludable,mala,1771,si,si,alto
+64,163,290,33.2,alta,no saludable,buena,1262,si,no,alto
+73,148,168,26.1,alta,saludable,buena,376,no,si,bajo
+69,116,249,29.3,alta,no saludable,buena,265,no,no,bajo
+51,143,289,20.9,moderada,saludable,buena,925,no,no,alto
+56,129,296,21.3,moderada,saludable,mala,920,no,no,alto
+64,145,225,18.7,alta,no saludable,buena,1382,si,no,alto
+30,105,158,20.9,alta,no saludable,mala,339,si,no,bajo
+64,136,177,22.7,alta,no saludable,buena,388,no,si,bajo
+66,123,277,21.0,moderada,no saludable,buena,576,si,si,alto
+76,145,201,19.5,alta,saludable,buena,1712,no,no,alto
+43,152,232,20.1,alta,no saludable,mala,2,no,no,bajo
+32,159,260,25.8,baja,no saludable,buena,1452,si,si,alto
+30,162,293,21.5,baja,no saludable,mala,1165,no,si,alto
+34,131,266,24.2,moderada,saludable,mala,375,si,si,bajo
+55,132,218,26.6,alta,saludable,buena,1693,si,si,alto
+43,166,248,29.7,alta,no saludable,buena,323,si,no,bajo
+68,117,289,18.7,baja,saludable,buena,145,si,no,bajo
+56,124,174,31.6,moderada,no saludable,mala,1981,no,si,alto
+38,153,272,28.7,baja,saludable,buena,292,si,no,bajo
+44,157,202,19.4,baja,saludable,mala,1688,no,si,alto
+44,166,300,32.9,baja,saludable,mala,431,no,no,alto
+55,145,293,33.7,baja,saludable,buena,704,no,si,alto
+71,123,206,19.0,alta,no saludable,buena,948,no,no,alto
+42,131,188,22.7,alta,no saludable,mala,1998,si,si,alto
+80,146,258,31.7,baja,no saludable,mala,584,si,si,alto
+61,122,191,30.7,moderada,saludable,mala,398,no,no,bajo
+68,165,291,21.1,moderada,no saludable,buena,816,no,si,alto
+78,126,271,21.6,moderada,no saludable,mala,1912,si,no,alto
+61,101,282,24.3,moderada,no saludable,buena,1367,no,no,alto
+33,116,224,26.2,baja,saludable,mala,963,si,si,alto
+59,132,295,28.5,alta,saludable,mala,1163,no,no,alto
+66,108,225,24.3,moderada,saludable,buena,186,si,no,bajo
+52,142,158,25.9,baja,no saludable,mala,1828,no,no,alto
+68,147,223,30.7,moderada,no saludable,buena,60,no,no,alto
+74,138,294,18.6,moderada,no saludable,buena,938,si,no,alto
+44,141,156,22.3,baja,saludable,mala,1403,no,si,alto
+72,125,290,30.1,alta,saludable,buena,709,no,no,alto
+58,149,286,33.2,alta,no saludable,buena,806,si,no,alto
+65,124,176,26.7,baja,saludable,mala,1463,no,no,alto
+42,123,271,27.0,alta,saludable,buena,1342,si,no,alto
+61,112,154,19.8,baja,saludable,buena,1325,si,no,alto
+36,159,178,25.6,baja,saludable,buena,1367,no,si,alto
+80,106,232,27.1,baja,no saludable,mala,10,no,no,alto
+51,156,285,22.1,alta,saludable,buena,1085,no,si,alto
+57,135,258,22.6,baja,saludable,mala,1868,no,si,alto
+31,144,214,24.4,moderada,saludable,mala,225,no,si,bajo
+71,119,235,18.3,alta,saludable,buena,1176,no,si,alto
+74,164,294,23.5,alta,no saludable,buena,1734,no,no,alto
+35,107,220,21.6,alta,no saludable,buena,563,si,si,alto
+57,115,194,23.6,alta,saludable,mala,771,no,si,alto
+57,113,281,20.0,moderada,saludable,buena,1594,si,no,alto
+73,175,185,33.1,alta,saludable,buena,1607,no,no,alto
+73,114,219,28.1,alta,saludable,buena,1683,no,no,alto
+49,165,168,29.5,baja,saludable,buena,1884,si,si,alto
+59,131,257,31.4,alta,saludable,buena,1598,no,no,alto
+40,162,240,26.5,moderada,no saludable,mala,1333,no,no,alto
+57,150,239,19.5,moderada,saludable,mala,884,si,si,alto
+54,124,168,27.1,moderada,no saludable,buena,1266,no,no,alto
+68,157,188,28.0,moderada,no saludable,buena,1516,no,no,alto
+62,162,275,30.7,alta,saludable,buena,1389,no,no,alto
+30,161,290,25.3,alta,no saludable,buena,1353,si,no,alto
+56,121,275,20.2,moderada,no saludable,mala,1130,no,si,alto
+42,157,207,22.8,moderada,no saludable,buena,225,no,no,bajo
+70,157,297,24.2,alta,no saludable,mala,824,no,no,alto
+32,148,210,29.0,moderada,no saludable,mala,217,no,si,bajo
+68,151,276,27.7,baja,no saludable,buena,936,si,no,alto
+35,141,254,24.1,moderada,saludable,mala,752,si,si,alto
+37,169,150,34.8,moderada,no saludable,mala,505,no,no,alto
+56,114,280,28.3,baja,no saludable,mala,258,no,si,bajo
+38,153,241,22.0,baja,no saludable,mala,1911,si,si,alto
